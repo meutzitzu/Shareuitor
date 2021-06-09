@@ -10,7 +10,7 @@ Because I am a very untrustful individual who has a pathological obsession with 
 
 ### How does it work ?
 
-It is very shitty. It uses `sed` in a shell script to generate an index.html file and style.css that makes the whole thing not look like absolute garbage.
+It is very shitty. It uses a shell script to generate an index.html file and style.css that makes the whole thing not look like absolute garbage.
 
 ### Wow, this is horrible ...
 
